@@ -1,4 +1,4 @@
-# Board Game AI & RPG Battle System
+# Board Game AI 
 
 A Unity-based collection of strategic board games (Tic-Tac-Toe, Connect Four) and an adaptive AI opponent. 
 
