@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681237f32d010594691bd9be97358c4e, type: 3}
+  m_Name: Wind Spell
+  m_EditorClassIdentifier: 
+  spellName: Wind
+  description: Shifts a row
+  icon: {fileID: 21300000, guid: 0452baf8f68372943a429d2376456828, type: 3}
+  manaCost: 3
+  type: 1
